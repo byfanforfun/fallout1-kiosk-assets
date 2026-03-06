@@ -338,3 +338,6 @@ KIOSK.FRM      ; Kiosk start window background
 ALLHST.FRM     ; Kiosk start inventory caravan background
 HOF.FRM	       ; Kiosk Hall Of Fame backgroung
 HEROSTAR.FRM   ; Kiosk Hall Of Fame Hero Star
+SCREENSAVER.FRM  ; Kiosk ScreenSaver box frame / unused
+LDSCRML.FRM    ; Load screen male
+LDSCRFM.FRM    ; Load screen female
