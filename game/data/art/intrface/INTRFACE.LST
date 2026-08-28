@@ -341,3 +341,5 @@ HEROSTAR.FRM   ; Kiosk Hall Of Fame Hero Star
 SCREENSAVER.FRM  ; Kiosk ScreenSaver box frame / unused
 LDSCRML.FRM    ; Load screen male
 LDSCRFM.FRM    ; Load screen female
+LDSCRBR.FRM    ; Load screen border
+HLPSCR.FRM     ; Help screen background
