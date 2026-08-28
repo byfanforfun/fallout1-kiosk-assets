@@ -1,0 +1,51 @@
+{800}{}{== MAIN MENU ==}
+{801}{}{== GAME ==}
+{802}{}{New Game}
+{803}{}{Load Game}
+{804}{}{Credits}
+{805}{}{Exit}
+{806}{}{Intro}
+{807}{}{Gamma Up}
+{808}{}{Gamma Down}
+{809}{}{Screensaver}
+{810}{}{Help}
+{811}{}{Volume Down}
+{812}{}{Volume Up}
+{813}{}{Save Game}
+{814}{}{Main Menu}
+{815}{}{Automap}
+{816}{}{Combat}
+{817}{}{Inventory}
+{818}{}{Character}
+{819}{}{Pip-Boy}
+{820}{}{Skilldex}
+{821}{}{Change Hand}
+{822}{}{Center View}
+{823}{}{Scroll Left}
+{824}{}{Scroll Right}
+{825}{}{Scroll Up}
+{826}{}{Scroll Down}
+{827}{}{Rotate Left}
+{828}{}{Rotate Right}
+{829}{}{Quick Save}
+{830}{}{Quick Load}
+{831}{}{PRESS ANY KEY TO CLOSE}
+{832}{}{HELP TERMINAL v1.0}
+{833}{}{NAVIGATION}
+{834}{}{CHARACTER}
+{835}{}{SYSTEM}
+{836}{}{Skill 1}
+{837}{}{Skill 2}
+{838}{}{Skill 3}
+{839}{}{Skill 4}
+{840}{}{Skill 5}
+{841}{}{Skill 6}
+{842}{}{Skill 7}
+{843}{}{Vault-Tec OS v.1.2.3b -- INIT}
+{844}{}{Copyright 2077 Vault-Tec Corporation}
+{845}{}{CPU: Mantis MIPS-3000 @ 2MHz ... OK}
+{846}{}{MEM: 64kb SRAM               ... OK}
+{847}{}{Water chip handshake         ... TIMEOUT}
+{848}{}{Terminal ready on COM1       ... OK}
+{849}{}{>>> show keys --verbose}
+
